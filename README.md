@@ -1,0 +1,2 @@
+# vendor-registration
+spreetime
